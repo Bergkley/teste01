@@ -780,14 +780,7 @@ h2.titulo span {
 
 /*(Celular Android) */
 @media (max-width:361px) {
-  .container {
-    width: 100%;
-    max-width: 100%;
-  }
-  
-  body {
-    overflow-x: hidden;
-  }
+ 
   .social-icon{
     display: none;
   }
